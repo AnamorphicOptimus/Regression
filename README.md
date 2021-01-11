@@ -2,7 +2,7 @@
 Here is a set of regression algorithms. Logistics, Ridge and Lasso are all implemented in Python.
 
 ## Introduction
-"Decision Tree" is an experimental project. Through self-study on the principle of Regression, I finally completed the realization of the following two models, which are implemented in Python. Some suggestions and questions from the experiment were also put forward later.
+"Regression" is an experimental project. Through self-study on the principle of Regression, I finally completed the realization of the following two models, which are implemented in Python. Some suggestions and questions from the experiment were also put forward later.
 
 ## Experiment Conclusions:
 
